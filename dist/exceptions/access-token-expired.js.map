@@ -1,0 +1,1 @@
+{"version":3,"file":"access-token-expired.js","sourceRoot":"","sources":["../../src/exceptions/access-token-expired.ts"],"names":[],"mappings":";;;AAAA,2CAAuD;AACvD,8CAA2C;AAE3C,MAAa,2BAA4B,SAAQ,8BAAqB;IACpE;QACE,KAAK,CAAC;YACJ,SAAS,EAAE,sBAAS,CAAC,kBAAkB;YACvC,OAAO,EAAE,0BAA0B;SACpC,CAAC,CAAC;IACL,CAAC;CACF;AAPD,kEAOC"}

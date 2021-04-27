@@ -1,0 +1,1 @@
+{"version":3,"file":"is-super-user.js","sourceRoot":"","sources":["../../src/decorators/is-super-user.ts"],"names":[],"mappings":";;;AAAA,2CAAwE;AACxE,8CAA8C;AAEjC,QAAA,WAAW,GAAG,6BAAoB,CAC9C,CAAC,IAAa,EAAE,GAAqB,EAAW,EAAE;IACjD,MAAM,OAAO,GAAG,GAAG,CAAC,YAAY,EAAE,CAAC,UAAU,EAAE,CAAC;IAChD,OAAQ,OAAO,CAAC,IAAqB,CAAC,WAAW,CAAC;AACnD,CAAC,CACD,CAAC"}

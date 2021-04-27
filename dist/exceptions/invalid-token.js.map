@@ -1,0 +1,1 @@
+{"version":3,"file":"invalid-token.js","sourceRoot":"","sources":["../../src/exceptions/invalid-token.ts"],"names":[],"mappings":";;;AAAA,2CAAuD;AACvD,8CAA2C;AAE3C,MAAa,qBAAsB,SAAQ,8BAAqB;IAC/D;QACC,KAAK,CAAC,EAAE,SAAS,EAAE,sBAAS,CAAC,YAAY,EAAE,CAAC,CAAC;IAC9C,CAAC;CACD;AAJD,sDAIC"}
